@@ -49,4 +49,4 @@ How to build NusantaraOS
 
 * Build NusantaraOS
 
-        make nad -j
+        mka nad -j
